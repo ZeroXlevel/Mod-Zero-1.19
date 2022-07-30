@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "modzero:block/tanzanite_ore"
+    "all": "modzero:block/deepslate_tanzanite_ore"
   }
 }
