@@ -12,6 +12,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.math.intprovider.UniformIntProvider;
 import net.minecraft.util.registry.Registry;
 import net.zeroxlevel.modzero.ModZero;
+import net.zeroxlevel.modzero.block.custom.JumpyBlock;
 import net.zeroxlevel.modzero.item.ModItemGroup;
 
 public class ModBlocks {
@@ -26,6 +27,8 @@ public class ModBlocks {
             new OreBlock(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool(),
                     UniformIntProvider.create(3, 7)), ModItemGroup.TANZANITE);
 
+    public static final Block JUMPY_BLOCK = registerBlock("jumpy_block",
+            new JumpyBlock(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.TANZANITE);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
