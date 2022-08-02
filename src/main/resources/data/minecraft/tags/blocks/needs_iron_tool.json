@@ -3,6 +3,8 @@
   "values": [
     "modzero:tanzanite_block",
     "modzero:tanzanite_ore",
-    "modzero:deepslate_tanzanite_ore"
+    "modzero:deepslate_tanzanite_ore",
+    "modzero:netherrack_tanzanite_ore",
+    "modzero:endstone_tanzanite_ore"
   ]
 }
