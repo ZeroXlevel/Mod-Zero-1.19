@@ -8,9 +8,13 @@
   "block.modzero.tanzanite_block": "Block of Tanzanite",
   "block.modzero.tanzanite_ore": "Tanzanite Ore",
   "block.modzero.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.modzero.netherrack_tanzanite_ore": "Netherrack Tanzanite Ore",
+  "block.modzero.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
   "block.modzero.jumpy_block": "Jumpy Block",
   "block.modzero.tanzanite_lamp": "Tanzanite Lamp",
   "block.modzero.eggplant_crop": "Eggplant Crop",
 
-  "itemGroup.modzero.tanzanite": "Tanzanite Mod Tab"
+  "itemGroup.modzero.tanzanite": "Tanzanite Mod Tab",
+
+  "entity.minecraft.villager.jumpmaster": "Jump Master"
 }

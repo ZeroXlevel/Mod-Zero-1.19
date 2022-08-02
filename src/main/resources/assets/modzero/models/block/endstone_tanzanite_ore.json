@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modzero:block/endstone_tanzanite_ore"
+  }
+}
