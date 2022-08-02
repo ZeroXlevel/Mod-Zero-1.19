@@ -2,12 +2,15 @@
   "item.modzero.raw_tanzanite": "Raw Tanzanite",
   "item.modzero.tanzanite": "Tanzanite",
   "item.modzero.eight_ball": "Eight Ball",
+  "item.modzero.eggplant_seeds": "Eggplant Seeds",
+  "item.modzero.eggplant": "Eggplant",
 
   "block.modzero.tanzanite_block": "Block of Tanzanite",
   "block.modzero.tanzanite_ore": "Tanzanite Ore",
   "block.modzero.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
   "block.modzero.jumpy_block": "Jumpy Block",
   "block.modzero.tanzanite_lamp": "Tanzanite Lamp",
+  "block.modzero.eggplant_crop": "Eggplant Crop",
 
   "itemGroup.modzero.tanzanite": "Tanzanite Mod Tab"
 }
