@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 import net.zeroxlevel.modzero.block.ModBlocks;
 import net.zeroxlevel.modzero.item.ModItems;
 import net.zeroxlevel.modzero.painting.ModPaintings;
+import net.zeroxlevel.modzero.util.ModLootTableModifiers;
 import net.zeroxlevel.modzero.villager.ModVillagers;
 import net.zeroxlevel.modzero.world.feature.ModConfiguredFeatures;
 import net.zeroxlevel.modzero.world.gen.ModOreGeneration;
@@ -26,5 +27,7 @@ public class ModZero implements ModInitializer {
 
 		ModPaintings.registerPaintings();
 		ModOreGeneration.generateOres();
+
+		ModLootTableModifiers.modifyLootTables();
 	}
 }
