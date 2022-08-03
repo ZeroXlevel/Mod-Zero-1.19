@@ -16,5 +16,8 @@
 
   "itemGroup.modzero.tanzanite": "Tanzanite Mod Tab",
 
-  "entity.minecraft.villager.jumpmaster": "Jump Master"
+  "entity.minecraft.villager.jumpmaster": "Jump Master",
+
+  "key.category.modzero.tutorial": "Example Mod Keys",
+  "key.modzero.drink_water": "Drink Water Key"
 }
